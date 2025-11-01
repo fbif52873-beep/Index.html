@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SMK Muhammadiyah 37 Parung</title>
+    <title>SMP Muhammadiyah 37 Parung</title>
     <style>
         /* --- Global Setup & Dark Mode --- */
         * {
